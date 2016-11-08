@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="edu.onlineStore.SearchTest" tests="13" skipped="0" failures="0" errors="0" timestamp="2016-11-07T16:14:59" hostname="JCMBP.local" time="0.002">
+<testsuite name="edu.onlineStore.SearchTest" tests="13" skipped="0" failures="0" errors="0" timestamp="2016-11-08T01:01:27" hostname="JCMBP.local" time="0.003">
   <properties/>
   <testcase name="searchWorksForSpecificYear" classname="edu.onlineStore.SearchTest" time="0.0"/>
   <testcase name="searchReturnsAllProductsIfSearchRequestIsEmpty" classname="edu.onlineStore.SearchTest" time="0.0"/>
@@ -8,7 +8,7 @@
   <testcase name="doesNotMatchSubsetOrSuperSetOfKeyWord" classname="edu.onlineStore.SearchTest" time="0.0"/>
   <testcase name="matchesKeyWordOutOfOrder" classname="edu.onlineStore.SearchTest" time="0.0"/>
   <testcase name="searchWorksForKeyWordInName" classname="edu.onlineStore.SearchTest" time="0.0"/>
-  <testcase name="mathesExactKeyWord" classname="edu.onlineStore.SearchTest" time="0.001"/>
+  <testcase name="mathesExactKeyWord" classname="edu.onlineStore.SearchTest" time="0.0"/>
   <testcase name="searchWorksForRangeOfYears" classname="edu.onlineStore.SearchTest" time="0.0"/>
   <testcase name="matchesCaseInsensitive" classname="edu.onlineStore.SearchTest" time="0.0"/>
   <testcase name="searchDoesNotReturnNonNameKeyWords" classname="edu.onlineStore.SearchTest" time="0.0"/>

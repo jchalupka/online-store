@@ -7,7 +7,7 @@ public class SearchTest {
 
 	@Test // Check do not return items that match only part of the search request
 	public void doesNotReturnItemsThatDoNotMatchEntireSearchRequest() {
-		Search request = new SearchRequest();
+		//Search request = new SearchRequest();
 	}
 	
 	@Test // Check search based on specific year

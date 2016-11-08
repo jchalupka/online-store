@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="edu.onlineStore.ProductTest" tests="32" skipped="0" failures="0" errors="0" timestamp="2016-11-07T16:14:59" hostname="JCMBP.local" time="0.018">
+<testsuite name="edu.onlineStore.ProductTest" tests="32" skipped="0" failures="0" errors="0" timestamp="2016-11-08T01:01:27" hostname="JCMBP.local" time="0.019">
   <properties/>
   <testcase name="setInvalidIdStopsProperly" classname="edu.onlineStore.ProductTest" time="0.0"/>
   <testcase name="spacesInNameShouldCreateProduct" classname="edu.onlineStore.ProductTest" time="0.0"/>
@@ -8,30 +8,30 @@
   <testcase name="setPriceWorks" classname="edu.onlineStore.ProductTest" time="0.001"/>
   <testcase name="doNotCreateProductWithNegativePrice" classname="edu.onlineStore.ProductTest" time="0.001"/>
   <testcase name="setInvalidPriceStopsProperly" classname="edu.onlineStore.ProductTest" time="0.0"/>
-  <testcase name="setInvalidNameStopsProperly" classname="edu.onlineStore.ProductTest" time="0.001"/>
+  <testcase name="setInvalidNameStopsProperly" classname="edu.onlineStore.ProductTest" time="0.0"/>
   <testcase name="emptyPriceShouldCreateProduct" classname="edu.onlineStore.ProductTest" time="0.0"/>
   <testcase name="getYearWorks" classname="edu.onlineStore.ProductTest" time="0.0"/>
   <testcase name="spacesInYearShouldNotCreateProduct" classname="edu.onlineStore.ProductTest" time="0.0"/>
-  <testcase name="productEqualsWorks" classname="edu.onlineStore.ProductTest" time="0.001"/>
-  <testcase name="doNotCreateProductWithLessThanSixDigitId" classname="edu.onlineStore.ProductTest" time="0.001"/>
-  <testcase name="nonNumberYearShouldNotCreateProduct" classname="edu.onlineStore.ProductTest" time="0.0"/>
-  <testcase name="setInvalidYearStopsProperly" classname="edu.onlineStore.ProductTest" time="0.001"/>
+  <testcase name="productEqualsWorks" classname="edu.onlineStore.ProductTest" time="0.0"/>
+  <testcase name="doNotCreateProductWithLessThanSixDigitId" classname="edu.onlineStore.ProductTest" time="0.0"/>
+  <testcase name="nonNumberYearShouldNotCreateProduct" classname="edu.onlineStore.ProductTest" time="0.001"/>
+  <testcase name="setInvalidYearStopsProperly" classname="edu.onlineStore.ProductTest" time="0.0"/>
   <testcase name="setIdWorks" classname="edu.onlineStore.ProductTest" time="0.001"/>
   <testcase name="negativeYearShouldNotCreateProduct" classname="edu.onlineStore.ProductTest" time="0.0"/>
   <testcase name="doNotCreateProductWithMoreThanSixDigitId" classname="edu.onlineStore.ProductTest" time="0.0"/>
-  <testcase name="setValidPriceWorks" classname="edu.onlineStore.ProductTest" time="0.0"/>
+  <testcase name="setValidPriceWorks" classname="edu.onlineStore.ProductTest" time="0.001"/>
   <testcase name="doNotCreateProductWithNonDigitId" classname="edu.onlineStore.ProductTest" time="0.0"/>
   <testcase name="createProductWithSixDigitId" classname="edu.onlineStore.ProductTest" time="0.001"/>
   <testcase name="validProductCreatesProducts" classname="edu.onlineStore.ProductTest" time="0.0"/>
   <testcase name="getNameWorks" classname="edu.onlineStore.ProductTest" time="0.0"/>
-  <testcase name="setValidYearWorks" classname="edu.onlineStore.ProductTest" time="0.001"/>
+  <testcase name="setValidYearWorks" classname="edu.onlineStore.ProductTest" time="0.0"/>
   <testcase name="emptyNameShouldNotCreateProduct" classname="edu.onlineStore.ProductTest" time="0.0"/>
-  <testcase name="emptyIdShouldNotCreateProduct" classname="edu.onlineStore.ProductTest" time="0.001"/>
+  <testcase name="emptyIdShouldNotCreateProduct" classname="edu.onlineStore.ProductTest" time="0.0"/>
   <testcase name="getPriceWorksIfPriceEmpty" classname="edu.onlineStore.ProductTest" time="0.0"/>
   <testcase name="doNotCreateProductWithNonNumberPrice" classname="edu.onlineStore.ProductTest" time="0.001"/>
   <testcase name="emptyYearShouldNotCreateProduct" classname="edu.onlineStore.ProductTest" time="0.0"/>
   <testcase name="upToTwoDecimalPriceShouldCreateProduct" classname="edu.onlineStore.ProductTest" time="0.0"/>
-  <testcase name="yearLessThanOneThousandShuoldNotCreateProduct" classname="edu.onlineStore.ProductTest" time="0.0"/>
+  <testcase name="yearLessThanOneThousandShuoldNotCreateProduct" classname="edu.onlineStore.ProductTest" time="0.001"/>
   <testcase name="moreThanTwoDecimalPlacesShouldNotCreateProduct" classname="edu.onlineStore.ProductTest" time="0.0"/>
   <system-out><![CDATA[Error: please enter a valid price.
 Error: please enter a valid price.
